@@ -48,5 +48,8 @@
     "onchange": "^2.5.0",
     "parallelshell": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "normalize-scss": "^5.0.3"
+  }
 }
